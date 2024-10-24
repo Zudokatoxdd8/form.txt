@@ -1,0 +1,13 @@
+name: juan 
+email: pepe@gmail.com
+address: si
+date: 2024-11-01
+--------------------------
+juan
+pepe@gmail.com
+si
+2024-10-24
+juan
+pepe@gmail.com
+si
+2024-11-01
